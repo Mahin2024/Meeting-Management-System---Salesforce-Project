@@ -36,19 +36,21 @@ A centralized home page view to monitor all upcoming meetings, their locations, 
 
 #### 2. Meeting Validation (Date Check)
 The system ensures data accuracy by preventing the creation of meetings with past dates.
-![Date Validation](assets/Screenshot_154949.png)
+<img width="1920" height="1020" alt="Screenshot 2026-01-17 154949" src="https://github.com/user-attachments/assets/f4ec825e-6fc5-41b7-bb0d-ab60f644801b" />
 
 #### 3. Participant Registration (Custom LWC)
 A streamlined registration form built with LWC to link participants to specific meetings efficiently.
-![Participant Registration](assets/Screenshot_155201.jpg)
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 155201" src="https://github.com/user-attachments/assets/8eaf9232-0844-4471-85fe-0be62e0afe58" />
+
 
 #### 4. Capacity Constraint Logic
 When a meeting reaches its maximum limit, the system triggers a custom error message to prevent over-registration.
-![Capacity Error](assets/Screenshot_160902.jpg)
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 160902" src="https://github.com/user-attachments/assets/2287587e-b02a-48ad-9fee-424f2a64460f" />
+
 
 #### 5. Automated Email Confirmation
 Successful registration automatically triggers a professional email sent to the participant with all relevant meeting details.
-![Email Confirmation](assets/Screenshot_160305.png)
+<img width="1920" height="1080" alt="Screenshot 2026-01-17 160305" src="https://github.com/user-attachments/assets/94ea683c-4f99-4426-803c-a0ec032a46eb" />
 
 ---
 
@@ -63,6 +65,7 @@ Successful registration automatically triggers a professional email sent to the 
     ├── objects/
     │   ├── Meeting__c/
     │   └── Participant__c/
+
 
 ---
 ## 📝 How to Use
