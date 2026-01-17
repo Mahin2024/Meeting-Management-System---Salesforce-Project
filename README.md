@@ -68,7 +68,7 @@ Successful registration automatically triggers a professional email sent to the 
 
 ### 📄 Project Documentation
 For a step-by-step walkthrough of the project with functional descriptions, please check the:
-[Download Project Report PDF](./Meeting Management Project - Documentation.pdf)
+[Download Project Report PDF](./Meeting Management Project - Documentation.pptx)
 ---
 ## 📝 How to Use
 1. open salesforce org.
