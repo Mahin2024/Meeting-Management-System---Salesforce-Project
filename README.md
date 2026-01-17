@@ -22,8 +22,8 @@ The project leverages **Lightning Web Components (LWC)** and **Apex** to provide
 * **Frontend:** Lightning Web Components (LWC)
 * **Backend:** Apex (Controllers & Custom Logic)
 * **Automation:** Salesforce Flows & Email Alerts
+* **Security:**  Roles, Profiles, & sharing rules.
 * **Database:** Custom Objects (`Meeting__c`, `Participant__c`)
-* **Tools:** Salesforce CLI, VS Code, Git
 
 ---
 
@@ -66,7 +66,9 @@ Successful registration automatically triggers a professional email sent to the 
     │   ├── Meeting__c/
     │   └── Participant__c/
 
-
+### 📄 Project Documentation
+For a step-by-step walkthrough of the project with functional descriptions, please check the:
+[Download Project Report PDF](./Meeting Management Project - Documentation.pdf)
 ---
 ## 📝 How to Use
 1. open salesforce org.
